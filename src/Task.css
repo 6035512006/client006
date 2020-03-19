@@ -1,0 +1,42 @@
+li{
+    display:flex;
+    flex-direction: column;
+    width: 180px;
+    height: 200px;
+    border-style:double ;
+    margin: 0 16px 16px 0;
+    
+}
+
+.id{
+
+
+
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+}
+.name{
+    font-size: 2em;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    flex: 1 ;
+    color:white;
+    background-color: black;
+}
+
+button{
+    justify-content: center;
+    width: 100px;
+    height: 30px;
+    display: flex;
+    color:wheat;
+    background-color: black;
+    
+
+}
